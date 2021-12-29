@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: net.proselyte.jwtappdemo.JwtAppDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.162 s - in net.proselyte.jwtappdemo.JwtAppDemoApplicationTests
