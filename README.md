@@ -7,6 +7,6 @@ INSERT INTO users values(3,'2021-10-02','ACTIVE','2021-10-02','email@email.com',
 INSERT INTO roles values(3,'2021-12-25','ACTIVE','2021-12-25','ROLE_ADMIN')
 INSERT INTO user_roles values (3,3)
 
-Учетка для выдачи токена:
+Учетка для авторизации в системе:
 Логин: stm_user
 Пароль: user
